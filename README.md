@@ -1,7 +1,9 @@
-repository-name
-# Repository Name
+home-networking
+# Home Networking
 
 Based on "ABC" at https://www.abc.com/
+
+![Networking](https://github.com/vanHeemstraSystems/home-networking/assets/1499433/05342f84-dea1-48b0-96d7-13ec04d716cc)
 
 ## 100 - Introduction
 
