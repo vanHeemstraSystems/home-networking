@@ -3,7 +3,7 @@ home-networking
 
 Based on "ABC" at https://www.abc.com/
 
-![Networking](https://github.com/vanHeemstraSystems/home-networking/assets/1499433/05342f84-dea1-48b0-96d7-13ec04d716cc)
+![Networking](https://github.com/vanHeemstraSystems/home-networking/assets/1499433/7d1a7ca0-a1dd-4b8a-b37f-f977965adc97)
 
 ## 100 - Introduction
 
