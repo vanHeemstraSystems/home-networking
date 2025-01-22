@@ -2,6 +2,8 @@
 
 [NetSpot](https://netspotapp.com) is ...
 
+## 100 - Ground Floor
+
 ![Image](https://github.com/user-attachments/assets/dcfe37e3-72a5-4423-87d9-d2bffa08b62b)
 
 ![Image](https://github.com/user-attachments/assets/7038d129-b7b8-4459-aa76-424189f01151)
@@ -15,3 +17,7 @@
 ![Image](https://github.com/user-attachments/assets/2db18a9a-573d-4d4e-bfb7-8ebf6b119a73)
 
 Continued at [NetSpot Heatmaps](https://github.com/vanHeemstraSystems/home-networking/blob/main/300/100/300/100/README.md).
+
+## 200 - First Floor
+
+MORE ...
