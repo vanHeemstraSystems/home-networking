@@ -2,7 +2,7 @@
 
 [NetSpot](https://netspotapp.com) lets you create Heatmaps based on Wireless Access Points.
 
-Continued from NetSpot Floorplans]():
+Continued from [NetSpot Floorplans](https://github.com/vanHeemstraSystems/home-networking/blob/main/300/100/200/100/README.md):
 
 ![Image](https://github.com/user-attachments/assets/82ad9293-652e-449a-aeaa-ace58c478c5f)
 
