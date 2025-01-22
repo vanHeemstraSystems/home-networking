@@ -5,7 +5,7 @@ home-networking
 
 - [References](./REFERENCES.md)
 
-** Executive Summary**
+**Executive Summary**
 
 This document details the design and development of a home networking infrastructure.
 
