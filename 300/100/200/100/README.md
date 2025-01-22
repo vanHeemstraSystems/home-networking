@@ -14,4 +14,4 @@
 
 ![Image](https://github.com/user-attachments/assets/2db18a9a-573d-4d4e-bfb7-8ebf6b119a73)
 
-Continued at [NetSpot Heatmaps]().
+Continued at [NetSpot Heatmaps](https://github.com/vanHeemstraSystems/home-networking/browse/main/300/100/300/100/README.md).
