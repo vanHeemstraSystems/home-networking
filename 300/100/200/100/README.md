@@ -14,5 +14,4 @@
 
 ![Image](https://github.com/user-attachments/assets/2db18a9a-573d-4d4e-bfb7-8ebf6b119a73)
 
-![Image](https://github.com/user-attachments/assets/82ad9293-652e-449a-aeaa-ace58c478c5f)
-
+Continued at [NetSpot Heatmaps]().
