@@ -1,7 +1,13 @@
 home-networking
 # Home Networking
 
-Based on "ABC" at https://www.abc.com/
+> Design and Development of a Home Networking Infrastructure
+
+- [References](./REFERENCES.md)
+
+** Executive Summary**
+
+This document details the design and development of a home networking infrastructure.
 
 ![Networking](https://github.com/vanHeemstraSystems/home-networking/assets/1499433/7d1a7ca0-a1dd-4b8a-b37f-f977965adc97)
 
