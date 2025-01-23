@@ -18,6 +18,9 @@ When clicked on **Topology** we see all devices connected to the UniFi Network:
 
 ![Image](https://github.com/user-attachments/assets/952d51fe-89a7-4afc-b83c-f9bc702ea50e)
 
+
+As you can see from the blueish circle around the **Willem's Mini**, this is the device we are currently browsing from.
+
 MORE ...
 
 ## 200 - Cloud Access to Ubiquiti Dream Machine (UDM) Pro
