@@ -1,6 +1,6 @@
 # 100 - Ubiquiti UniFi Site Management
 
-**Note**: It is recommended to connect the device you are working from (here: **Willems Mini**) to have it connected to the WiFi Access Point that is closest to the Internet (here: **Ziggo9306631**).
+**Note**: It is recommended to connect the device you are working from (here: **Willems-Mini**) to have it connected to the WiFi Access Point that is closest to the Internet (here: **Ziggo9306631**).
 
 ## 100 - Local Access to Ubiquiti Dream Machine (UDM) Pro
 
@@ -21,7 +21,7 @@ When clicked on **Topology** we see all devices connected to the UniFi Network:
 ![Image](https://github.com/user-attachments/assets/952d51fe-89a7-4afc-b83c-f9bc702ea50e)
 
 
-As you can see from the blueish circle around **Willems Mini**, this is the device we are currently browsing from.
+As you can see from the blueish circle around **Willems-Mini**, this is the device we are currently browsing from.
 
 MORE ...
 
