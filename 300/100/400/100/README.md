@@ -14,6 +14,10 @@ This brings us to the **UniFi Network**:
 
 ![Image](https://github.com/user-attachments/assets/6eb8f25d-0149-491b-bfa3-196b9dd77941)
 
+When clicked on **Topology** we see all devices connected to the UniFi Network:
+
+![Image](https://github.com/user-attachments/assets/952d51fe-89a7-4afc-b83c-f9bc702ea50e)
+
 MORE ...
 
 ## 200 - Cloud Access to Ubiquiti Dream Machine (UDM) Pro
