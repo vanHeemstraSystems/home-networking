@@ -20,4 +20,18 @@ Continued at [NetSpot Heatmaps](https://github.com/vanHeemstraSystems/home-netwo
 
 ## 200 - First Floor
 
-MORE ...
+![Image](https://github.com/user-attachments/assets/19a8b67b-8c85-49b5-84c6-c91f48dcf6c8)
+
+![Image](https://github.com/user-attachments/assets/a5aa705e-53b8-4949-b036-04d3913778f1)
+
+![Image](https://github.com/user-attachments/assets/ae46c781-926b-4c0d-9c09-937afc2222c4)
+
+![Image](https://github.com/user-attachments/assets/fb361c56-687c-4b95-a8bf-de1bac5a35a7)
+
+![Image](https://github.com/user-attachments/assets/2640f562-9008-4d02-8036-6a052b6f60fb)
+
+![Image](https://github.com/user-attachments/assets/7b929fa9-b3ef-4ab0-b8d2-ed448fba526f)
+
+![Image](https://github.com/user-attachments/assets/abb7ad2e-cddf-44f0-8696-636d94b0744d)
+
+Continued at [NetSpot Heatmaps](https://github.com/vanHeemstraSystems/home-networking/blob/main/300/100/300/100/README.md).

@@ -4,6 +4,8 @@
 
 Continued from [NetSpot Floorplans](https://github.com/vanHeemstraSystems/home-networking/blob/main/300/100/200/100/README.md):
 
+## 100 - Ground Floor
+
 ![Image](https://github.com/user-attachments/assets/82ad9293-652e-449a-aeaa-ace58c478c5f)
 
 ![Image](https://github.com/user-attachments/assets/db64c92c-9d86-4a9f-971b-08ade825961b)
@@ -21,3 +23,7 @@ Continued from [NetSpot Floorplans](https://github.com/vanHeemstraSystems/home-n
 ![Image](https://github.com/user-attachments/assets/12331fac-03fc-49d1-8709-110b9ccb1fd6)
 
 ![Image](https://github.com/user-attachments/assets/76a8a828-74b5-4ac6-9d2c-8928ae51bade)
+
+## 200 - First Floor
+
+![Image](https://github.com/user-attachments/assets/bf23a2d7-8502-4777-bfca-df7b365b0b66)
