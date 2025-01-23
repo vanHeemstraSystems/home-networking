@@ -10,6 +10,11 @@ https://192.168.1.1
 
 **Note**: If warned in the browser that the site cannot be trusted because there is no certificate signed by a trusted authority, choose "Advanced" and choose nevertheless to visit the page, as we are local to the machine and we know of its validity.
 
+This brings us to the **UniFi Network**:
+
+![Image](https://github.com/user-attachments/assets/6eb8f25d-0149-491b-bfa3-196b9dd77941)
+
+MORE ...
 
 ## 200 - Cloud Access to Ubiquiti Dream Machine (UDM) Pro
 
