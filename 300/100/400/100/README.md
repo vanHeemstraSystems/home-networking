@@ -1,5 +1,7 @@
 # 100 - Ubiquiti UniFi Site Management
 
+**Note**: It is recommended to connect the device you are working from (here: **Willems Mini**) to have it connected to the WiFi Access Point that is closest to the Internet (here: **Ziggo9306631**).
+
 ## 100 - Local Access to Ubiquiti Dream Machine (UDM) Pro
 
 Visit on a computer connected to the same (WiFi) network as the Ubiquiti Dream Machine (UDM) Pro in a web browser at the address: https://192.168.1.1
