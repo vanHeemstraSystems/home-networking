@@ -20,8 +20,6 @@ Continued at [NetSpot Heatmaps](https://github.com/vanHeemstraSystems/home-netwo
 
 ## 200 - First Floor
 
-![Image](https://github.com/user-attachments/assets/19a8b67b-8c85-49b5-84c6-c91f48dcf6c8)
-
 ![Image](https://github.com/user-attachments/assets/a5aa705e-53b8-4949-b036-04d3913778f1)
 
 ![Image](https://github.com/user-attachments/assets/ae46c781-926b-4c0d-9c09-937afc2222c4)
