@@ -24,7 +24,7 @@ Remote.it provides a secure, web-based remote access solution that requires no p
    - Verify your email
 
 2. Configure Mac Mini:
-   - System Settings > Sharing
+   - System Preferences > Sharing
    - Enable "Screen Sharing"
    - Set a strong password for your Mac user account
 
