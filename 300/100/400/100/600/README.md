@@ -1,58 +1,59 @@
 # 600 - Remote Access to Mac Mini
 
-## Using UniFi VPN
+## Using Remote.it
 
-UniFi VPN (L2TP) is the recommended solution for remote access to our Mac Mini. Here's why:
+Remote.it provides a secure, web-based remote access solution that requires no port forwarding or VPN configuration. Here's why it's recommended:
 
-1. Built directly into UniFi network equipment
-2. Works with any device (not just mobile)
-3. Provides secure, encrypted connection
-4. Allows full network access, including all Mac Mini services
+1. No client software needed - works through web browser
+2. Zero-trust security model
+3. No port forwarding required
+4. Built-in monitoring and management
+5. Free tier available for personal use
 
 ### Setup Requirements
 
-- UniFi Dream Machine Pro (UDM Pro)
-- Latest UniFi OS version
-- Dynamic DNS configured (if you don't have a static IP)
-- Port 1701 (L2TP) and 4500 (IPSec) open on your ISP connection
+- Mac Mini with internet connection
+- Remote.it account (free tier available)
+- Web browser for access
 
-### UDM Pro Configuration Steps
+### Installation Steps
 
-1. In UniFi OS Dashboard:
-   - Log into your UDM Pro interface (https://local-ip:8443)
-   - Go to Settings > System > Advanced
-   - Enable Remote Access VPN Server
-   - Select L2TP Server
+1. Create Remote.it Account:
+   - Visit https://remote.it
+   - Sign up for a free account
+   - Verify your email
 
-2. VPN Server Configuration:
-   - Set a strong Pre-shared Key (PSK)
-   - Configure VPN subnet (default is usually fine)
-   - Set maximum number of clients
-   - Enable DNS forwarding if needed
+2. Configure Mac Mini:
+   - System Settings > Sharing
+   - Enable "Screen Sharing"
+   - Set a strong password for your Mac user account
 
-3. User Management:
-   - Go to Settings > Users
-   - Create new VPN users or enable VPN access for existing users
-   - Set strong passwords for each user
+3. Install Remote.it:
+   - Download Remote.it for macOS
+   - Install and run the application
+   - Sign in with your Remote.it account
+   - Follow the setup wizard to enable remote access
 
-### Client Connection Steps
+4. Access Your Mac Mini:
+   - Log into remote.it web dashboard
+   - Select your Mac Mini from devices
+   - Click "Connect" to start remote session
+   - Access through web browser
 
-1. On macOS:
-   - System Settings > VPN > Add VPN Configuration
-   - Select L2TP over IPSec
-   - Server Address: Your UDM Pro's public IP or DDNS
-   - Account Name: VPN username
-   - Enter shared secret (PSK)
+### Security Recommendations
 
-2. On iOS:
-   - Settings > VPN > Add VPN Configuration
-   - Type: L2TP
-   - Fill in server, account, and PSK details
+1. Enable 2FA on your Remote.it account
+2. Use strong passwords
+3. Regularly update Remote.it software
+4. Monitor access logs in Remote.it dashboard
+5. Use device sharing features for temporary access
 
-Once connected via VPN, you can access your Mac Mini using:
-- Screen Sharing (port 5900)
-- SSH (port 22)
-- File Sharing (port 445)
-- Any other enabled services
+### Advantages Over Traditional VPN
+
+1. No port forwarding needed
+2. Works through firewalls
+3. Zero-trust security model
+4. Centralized access management
+5. Real-time monitoring
 
 MORE ...
