@@ -32,7 +32,7 @@
 Keyboard and Mouse Connection:
 - Required: Apple Lightning to USB Camera Adapter (with USB-C power port)
 - Connect keyboard to the USB-A port
-- Connect mouse to the USB-C port
+- Use any Bluetooth mouse (much simpler than USB!)
 - Plug adapter into iPad's Lightning port
 - Connect power to USB-C port if needed
 - Enable AssistiveTouch:
