@@ -27,4 +27,20 @@
 - If keyboard input isn't working, check if the remote session has focus
 - For better performance, ensure both devices have strong internet connections
 
-MORE ...
+### Input Device Setup for iPad
+
+Keyboard and Mouse Connection:
+- Required: Apple Lightning to USB Camera Adapter (with USB-C power port)
+- Connect keyboard to the USB-A port
+- Connect mouse to the USB-C port
+- Plug adapter into iPad's Lightning port
+- Connect power to USB-C port if needed
+- Enable AssistiveTouch:
+  1. Settings > Accessibility > Touch > AssistiveTouch
+  2. Turn on AssistiveTouch
+
+Stand Solution:
+- Nite Ize magnetic stand
+- Magnetic sticker attached to back of iPad
+- Allows flexible positioning and viewing angles
+- Easy to attach/detach as needed
