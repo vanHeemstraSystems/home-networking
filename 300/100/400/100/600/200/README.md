@@ -1,33 +1,29 @@
 # 200 - Running Cursor on the Remote Mac Mini
 
-To access Cursor running on your Mac Mini from your iPad:
+## Using Screens to Access Mac Mini
 
-1. Connect to Mac Mini:
-   - Open Remote.it in your iPad's web browser
-   - Find your Mac Mini in the devices list
-   - Click "Connect" to start a remote session
-   - When prompted, enter your Mac credentials
+### Quick Connect
+1. Open Screens on your iPad
+2. Select your Mac Mini from the discovered computers list
+3. Enter your Mac credentials when prompted
+4. You'll now see your Mac Mini's desktop
 
-2. Using Cursor:
-   - Once connected, you'll see your Mac Mini's desktop
-   - Launch Cursor if it's not already running
-   - You can now use Cursor as if you were at your Mac
-   
+### Using Cursor Through Screens
+1. Once connected, launch Cursor if it's not already running
+2. You can now use Cursor as if you were at your Mac
+
 ### Tips for iPad Usage
 - Use a Bluetooth keyboard for better coding experience
 - Enable iPad's landscape mode for more screen space
-- Use iPad gestures for navigation:
+- Use Screens' touch gestures:
   - Two-finger scroll
   - Pinch to zoom
-  - Three-finger swipe for copy/paste
-- Consider using iPad's Split View to keep documentation open alongside your remote session
+  - Three-finger swipe for shortcuts
+- Consider using iPad's Split View to keep documentation open
 
 ### Troubleshooting
-- If the screen appears too small, adjust the display scaling in your Mac's System Settings
+- If the screen appears too small, adjust the display scaling in Screens' settings
 - If keyboard input isn't working, check if the remote session has focus
 - For better performance, ensure both devices have strong internet connections
-
-
-
 
 MORE ...
