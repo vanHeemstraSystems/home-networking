@@ -36,7 +36,38 @@
 - During this process, any existing WiFi networks from the UniFi Express will temporarily go offline
 - After adoption, you can reconfigure WiFi networks through the UDM Pro interface
 
-## 200 - Local Access to Ubiquiti Dream Machine (UDM) Pro
+## 200 - UniFi Express Configuration After Successful Adoption
+
+### Current Status ✅
+- UniFi Express successfully adopted
+- Listed under Devices (not Client Devices)
+- Shows green status light
+- Properly integrated with UDM Pro
+
+### Next Steps
+1. Configure WiFi Networks:
+   - Navigate to the UniFi Express in Devices
+   - Set up or extend existing WiFi networks
+   - Configure SSID (network name)
+   - Set security settings and passwords
+
+2. Optimize Placement:
+   - Consider optimal location for WiFi coverage
+   - Use UniFi's signal strength indicators
+   - Ensure good connection back to UDM Pro
+
+3. Monitor Performance:
+   - Check client connections
+   - Monitor bandwidth usage
+   - Review any alerts or notifications
+
+4. Backup Configuration:
+   - Consider backing up your UDM Pro settings
+   - This saves your network configuration including the UniFi Express setup
+
+Would you like me to help you with any of these next steps, particularly setting up the WiFi networks through your newly adopted UniFi Express?
+
+## 300 - Local Access to Ubiquiti Dream Machine (UDM) Pro
 
 Visit on a computer connected to the same (WiFi) network as the Ubiquiti Dream Machine (UDM) Pro in a web browser at the address: https://192.168.1.1
 
@@ -59,7 +90,7 @@ As you can see from the blueish circle around **Willems-Mini**, this is the devi
 
 MORE ...
 
-## 300 - Cloud Access to Ubiquiti Dream Machine (UDM) Pro
+## 400 - Cloud Access to Ubiquiti Dream Machine (UDM) Pro
 
 Visit in a web browser at the address: https://unifi.ui.com
 
