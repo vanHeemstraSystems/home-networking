@@ -3,6 +3,7 @@
 ## Using Screens to Access Mac Mini
 
 ### Quick Connect
+1. Download from the App Storeand subscribe to "Screens 5".
 1. Open Screens on your iPad
 2. Select your Mac Mini from the discovered computers list
 3. Enter your Mac credentials when prompted
