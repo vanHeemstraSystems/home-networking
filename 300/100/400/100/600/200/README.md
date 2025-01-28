@@ -4,10 +4,10 @@
 
 ### Quick Connect
 1. Download from the App Storeand subscribe to "Screens 5".
-1. Open Screens on your iPad
-2. Select your Mac Mini from the discovered computers list
-3. Enter your Mac credentials when prompted
-4. You'll now see your Mac Mini's desktop
+2. Open Screens on your iPad
+3. Select your Mac Mini from the discovered computers list
+4. Enter your Mac credentials when prompted
+5. You'll now see your Mac Mini's desktop
 
 ### Using Cursor Through Screens
 1. Once connected, launch Cursor if it's not already running
