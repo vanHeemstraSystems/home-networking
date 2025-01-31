@@ -8,6 +8,10 @@
    - Requires macOS 12.3 or higher
    - Sign in with same account as Screens iOS app
    - Allow necessary permissions when prompted
+   - Enable Remote Management:
+     1. System Settings > Sharing
+     2. Turn on "Remote Management"
+     > Note: This enables Curtain Mode, which hides the Mac Mini's display when working remotely
    > Note: Screens Connect is essential for remote access when not on the same network
 
 2. On iPad:
