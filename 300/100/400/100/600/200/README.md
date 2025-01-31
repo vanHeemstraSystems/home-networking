@@ -2,12 +2,24 @@
 
 ## Using Screens to Access Mac Mini
 
+### Initial Setup
+1. On Mac Mini:
+   - Install "Screens Connect" from https://edovia.com/screens-connect/
+   - Requires macOS 12.3 or higher
+   - Sign in with same account as Screens iOS app
+   - Allow necessary permissions when prompted
+   > Note: Screens Connect is essential for remote access when not on the same network
+
+2. On iPad:
+   - Install "Screens" from the App Store
+   - Sign in with same account as Screens Connect
+   - Your Mac Mini should appear in the devices list
+
 ### Quick Connect
-1. Download from the App Store and subscribe to "Screens 5".
-2. Open Screens on your iPad
-3. Select your Mac Mini from the discovered computers list
-4. Enter your Mac credentials when prompted
-5. You'll now see your Mac Mini's desktop
+1. Open Screens on your iPad
+2. Select your Mac Mini from the discovered computers list
+3. Enter your Mac credentials when prompted
+4. You'll now see your Mac Mini's desktop
 
 ### Using Cursor Through Screens
 1. Once connected, launch Cursor if it's not already running
@@ -31,13 +43,29 @@
 
 Keyboard and Mouse Connection:
 - Required: Apple Lightning to USB Camera Adapter (with USB-C power port)
-- Connect keyboard to the USB-A port
-- Use any Bluetooth mouse (much simpler than USB!)
-- Plug adapter into iPad's Lightning port
-- Connect power to USB-C port if needed
-- Enable AssistiveTouch:
-  1. Settings > Accessibility > Touch > AssistiveTouch
-  2. Turn on AssistiveTouch
+- Required: USB hub (La Brodée recommended)
+
+Recommended USB Hub: La Brodée 4-Port Hub
+- 1x USB 3.0 port (5Gbps)
+- 3x USB 2.0 ports (480Mbps)
+- Compact design with 10cm cable
+- No external power needed
+- Built-in safety features:
+  - Over-current protection
+  - Over-voltage protection
+  - Short circuit protection
+  - Temperature control
+- Plug and play (no drivers needed)
+
+Setup Steps:
+1. Connect hub to USB-A port on camera adapter
+2. Connect keyboard to USB 3.0 port (blue port)
+3. Connect mouse to any USB 2.0 port
+4. Connect camera adapter to iPad
+5. Use USB-C port for power if needed
+6. Enable AssistiveTouch:
+   - Settings > Accessibility > Touch > AssistiveTouch
+   - Turn on AssistiveTouch
 
 Stand Solution:
 - Nite Ize magnetic stand
